@@ -7,10 +7,10 @@ Le but de ce rapport est de suivre les produits   au sein d'une entreprise Ces d
 ## Structure du projet
 Le projet est organisé de la manière suivante :
 
-![pp](https://github.com/user-attachments/assets/8225979f-a5cf-441a-8b72-81eab0ffdfa0)
+![projets](https://github.com/user-attachments/assets/2e81c36f-ac7d-4408-a9a3-b8ea9fed3d05)
 
   - `src/` : Contient le code source Java : 
-     - `projet ` : contient les pachage utulise
+ma.projet: 
      - `Test` : le test de l'application
      - ` util` : contient  une class connexion qui va faire liee la connexion avec 
 la base de donnee. 
@@ -20,7 +20,7 @@ service de chaque entité.
      - ` service `: contient les services que cette application offre, les classes 
 présente dans ce package son implémente d’interface dao. 
      - `Test` : ou on va effectuer les test. 
-![projets](https://github.com/user-attachments/assets/2e81c36f-ac7d-4408-a9a3-b8ea9fed3d05)
+
 
 ## Outil utulise :
 hibernate.
@@ -53,7 +53,11 @@ Pour tester le projet :
 
 
 
-[explication.webm](https://github.com/user-attachments/assets/f599c0a1-2b7e-4f6d-b4e4-c76884cf450e)
+https://github.com/user-attachments/assets/c01aebb0-5635-45d5-a44d-2aea7c05d041
+
+
+
+
 
 
 
